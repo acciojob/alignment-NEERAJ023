@@ -1,3 +1,19 @@
  table ,tr ,td {
 	border:1px solid black;	
 }
+table{
+	width:100%;
+}
+.
+h1{
+	text-align:center;
+}
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+td{
+	height:15px;
+}
